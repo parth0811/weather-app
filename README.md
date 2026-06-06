@@ -1,6 +1,6 @@
 # 🌦️ React Weather App
 
-A modern and responsive Weather Application built with **React.js** and **Sass**, powered by the **Meteosource Weather API**. The application provides real-time weather information, hourly forecasts, weekly forecasts, theme customization, and regional unit system support.
+A modern and responsive Weather Application built with **React.js** and **Scss**, powered by the **Meteosource Weather API**. The application provides real-time weather information, hourly forecasts, weekly forecasts, theme customization, and regional unit system support.
 
 ---
 
