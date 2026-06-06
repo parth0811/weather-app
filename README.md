@@ -112,28 +112,19 @@ src/
 
 ### 🏠 Home Page
 
-```md
 ![Home Page](./ss/home.jpg)
-```
 
 ### 🎨 Theme Switching
 
-```md
 ![Theme Change](./ss/theme.jpg)
-```
 
 ### ⏰ Hourly & Weekly Forecast
 
-```md
 ![Forecast](./ss/hw.jpg)
-```
 
 ### 🌡️ Regional Unit Systems
 
-```md
 ![Units Settings](./ss/unit.jpg)
-```
-
 
 ---
 
